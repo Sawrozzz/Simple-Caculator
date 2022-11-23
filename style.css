@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #011627;
+    color: aqua;
+    text-align: center;
+    background-image: url(https://w0.peakpx.com/wallpaper/96/758/HD-wallpaper-simple-background-simple-background-artist-digital-art.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    font-size: 45px;
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    color: black;
+    border-style: none;
+}
+.btm:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
